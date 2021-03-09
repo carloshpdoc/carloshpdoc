@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Henrique</h1>
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshperc&label=Profile%20views&color=0e75b6&style=flat" alt="carloshperc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloshperc&label=Visits%20views&color=0e75b6&style=flat" alt="carloshperc" /> </p>
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/carloshperc)](https://badges.pufler.dev)
 
 <p align="left"> <a href="https://twitter.com/carloshperc" target="blank"><img src="https://img.shields.io/twitter/follow/carloshperc?logo=twitter&style=for-the-badge" alt="carloshperc" /></a> </p>
 
@@ -28,8 +30,3 @@
 
 
 ![CarlosCarmo GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshpdoc&count_private=true)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloshperc&show_icons=true&locale=en&layout=compact" alt="carloshperc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloshperc&show_icons=true&locale=en" alt="carloshperc" /></p>
