@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Carlos Henrique</h1>
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  A passionate mobile developer from Brazil.</h3>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=carloshperc&label=Visits%20views&color=0e75b6&style=flat" alt="carloshperc" />
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/carloshperc?label=Follow)](https://twitter.com/intent/follow?screen_name=carloshperc)
-</p>
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carloshhperc.me/)](https://carloshperc.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=carloshperc)
+
 
 - 🔭 I’m currently working on [Cartola FC at Globo](https://apps.apple.com/br/app/cartola-fc-oficial/id1129547202)
 
@@ -38,8 +37,10 @@
 </p>
 
 
-*If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈*
-
+<h5>
+   <i>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</i>
+</h5>
+  
 <a href="https://www.buymeacoffee.com/carloshperc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
