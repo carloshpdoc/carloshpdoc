@@ -1,10 +1,12 @@
 <h1>Hi 👋, I'm Carlos Henrique</h1>
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  A passionate mobile developer from Brazil.</h3>
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/carloshperc?label=Follow)](https://twitter.com/intent/follow?screen_name=carloshperc)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carloshhperc.me/)](https://carloshperc.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=carloshperc)
-👯 Part of CocoaHeadsBr and NSBrazil
+
+
 
 - 🔭 I’m currently working on [Cartola FC at Globo](https://apps.apple.com/br/app/cartola-fc-oficial/id1129547202)
 
@@ -15,6 +17,7 @@
 - 💬 Ask me about **iOS, SwiftUI,Apple Augmented Reality, Architecture, WatchOS and TvOS**
 
 - 📫 How to reach me **contato@carloshperc.me**
+
 
 
 <h3>📖 Latest Medium article:</h3>
