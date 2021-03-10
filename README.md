@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Carlos Henrique</h1>
-<h3>A passionate mobile developer from Brazil.</h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  A passionate mobile developer from Brazil.</h3>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=carloshperc&label=Visits%20views&color=0e75b6&style=flat" alt="carloshperc" />
