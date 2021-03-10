@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **iOS, SwiftUI,Apple Augmented Reality, Architecture, WatchOS and TvOS**
 
-- 📫 How to reach me **contato@carloshperc.me**
-
 
 
 <h3>📖 Latest Medium article:</h3>
