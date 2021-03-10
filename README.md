@@ -4,17 +4,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/carloshperc?label=Follow)](https://twitter.com/intent/follow?screen_name=carloshperc)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carloshhperc.me/)](https://carloshperc.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=carloshperc)
-
+👯 Part of CocoaHeadsBr and NSBrazil
 
 - 🔭 I’m currently working on [Cartola FC at Globo](https://apps.apple.com/br/app/cartola-fc-oficial/id1129547202)
 
 - 👨‍💻 All of my projects are available at [carloshperc.me](carloshperc.me)
 
-- 📝 I regularly write articles on [carloshperc.medium.com](carloshperc.medium.com)
+<!--- - 📝 I regularly write articles on [carloshperc.medium.com](carloshperc.medium.com) --->
 
 - 💬 Ask me about **iOS, SwiftUI,Apple Augmented Reality, Architecture, WatchOS and TvOS**
 
 - 📫 How to reach me **contato@carloshperc.me**
+
 
 <h3>📖 Latest Medium article:</h3>
 
