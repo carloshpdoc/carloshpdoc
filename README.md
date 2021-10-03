@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Cartola FC at Globo](https://apps.apple.com/br/app/cartola-fc-oficial/id1129547202)
+- 🔭 I’m currently working on [Magazine Luiza at Luiza Labs](https://apps.apple.com/br/app/magalu-cashback-do-milh%C3%A3o/id891130066)
 
 - 👨‍💻 All of my projects are available at [carloshperc.me](carloshperc.me)
 
