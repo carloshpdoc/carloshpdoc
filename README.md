@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Magazine Luiza at Luiza Labs](https://apps.apple.com/br/app/magalu-cashback-do-milh%C3%A3o/id891130066)
 
-- 👨‍💻 All of my projects are available at [carloshperc.me](carloshperc.me)
+- 👨‍💻 All of my projects are available at [carloshperc.com](carloshperc.com)
 
 <!--- - 📝 I regularly write articles on [carloshperc.medium.com](carloshperc.medium.com) --->
 
