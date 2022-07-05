@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Magazine Luiza at Luiza Labs](https://apps.apple.com/br/app/magalu-cashback-do-milh%C3%A3o/id891130066)
+- 🔭 I’m currently working on [OLX Brasil](https://apps.apple.com/br/app/olx-compra-e-venda-online/id692808319?l=en)
 
 - 👨‍💻 All of my projects are available at [carloshperc.com](https://carloshperc.com)
 
