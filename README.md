@@ -8,8 +8,6 @@
 
 
 
-- 🔭 I’m currently working on [OLX Brasil](https://apps.apple.com/br/app/olx-compra-e-venda-online/id692808319?l=en)
-
 - 👨‍💻 All of my projects are available at [carloshperc.com](https://carloshperc.com)
 
 <!--- - 📝 I regularly write articles on [carloshperc.medium.com](carloshperc.medium.com) --->
