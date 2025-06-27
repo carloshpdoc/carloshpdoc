@@ -8,11 +8,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [carloshperc.com](https://carloshperc.com)
+- 👨‍💻 All of my projects are available at [carloshperc.me](https://carloshperc.me)
 
 <!--- - 📝 I regularly write articles on [carloshperc.medium.com](carloshperc.medium.com) --->
 
-- 💬 Ask me about **iOS, SwiftUI,Apple Augmented Reality, Architecture, WatchOS and TvOS**
+- 💬 Ask me about **iOS, SwiftUI, Apple Augmented Reality, Architecture, WatchOS, and TvOS**
 
 
 
