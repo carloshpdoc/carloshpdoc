@@ -19,7 +19,7 @@
 
 - 📱 **Principal Mobile Engineer @ OLX Brasil** — owning iOS architecture, scalability and DX across squads, plus supporting Android architecture and cross-platform strategy.
 - 🏗️ Shipped apps used by **millions of daily users** at **OLX**, **Globo** (Cartola FC, G1, ge, Gshow) and **Magazine Luiza / Luizalabs** (Super App Platform).
-- 🌎 **International product experience** through **AmiGo Travel** (global travel app, JB2), translations work and English-first technical content.
+- 🌎 **International product experience** through **AmiGo Travel** (global travel app, Bitboundaire), translations work and English-first technical content.
 - 🎤 **CocoaHeads Rio organizer** · NSBrasil &amp; TDC speaker · iOS instructor at **EBAC** and **Ada** (System Design, algorithms, mock interviews).
 - 🧰 Now building **developer tools** for the iOS ecosystem and the Claude Code agent platform.
 - ✉️ Open to chat about mobile architecture, performance, DX, tech leadership and AI-augmented engineering.
@@ -36,7 +36,7 @@
 | [**Cartola FC Oficial**](https://apps.apple.com/br/app/cartola-fc-oficial/id446882093) | Senior iOS Engineer · **Globo** | Brazil's #1 fantasy football game, **millions of users** | SwiftUI · Combine (early adopter) |
 | [**Magalu — Super App**](https://apps.apple.com/br/app/magalu-compras-online/id476201305) | Staff iOS Engineer · **Luizalabs** | Brazil's largest e-commerce Super App | Super App Platform · Mini Apps · SDKs |
 | [**G1 · globoesporte · Gshow**](https://apps.apple.com/br/app/g1-not%C3%ADcias/id436628021) | Mobile iOS Engineer · **Globo** | Globo's flagship news / sports / entertainment apps | iOS Native Apps Platform · shared SDKs |
-| [**AmiGo Travel — Share &amp; get tips**](https://www.amigo.app/) 🌎 | Tech Lead &amp; Mobile Consultant · **JB2** | International travel app (global audience) | Modular **SwiftUI** architecture · monetization &amp; subscriptions |
+| [**AmiGo Travel — Share &amp; get tips**](https://www.amigo.app/) 🌎 | Tech Lead &amp; Mobile Consultant · **Bitboundaire** | International travel app (global audience) | Modular **SwiftUI** architecture · monetization &amp; subscriptions |
 | [**Cartão Carrefour**](https://apps.apple.com/br/app/cart%C3%A3o-de-cr%C3%A9dito-carrefour/id1156553924) | iOS Engineer (freelance) · **Banco Carrefour** | Carrefour credit card app | iOS native · barcode boleto payment flow |
 
 ---
