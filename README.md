@@ -43,15 +43,22 @@
 
 ---
 
-### 🚀 Things I'm building (open source)
+### 🚀 Open source
 
 | Project | What it does |
 |---|---|
 | [**memorydetective**](https://github.com/carloshpdoc/memorydetective) | MCP server for iOS leak hunting &amp; perf investigation — **31 tools**, 34-pattern retain-cycle classifier with Swift fix templates, SourceKit-LSP source bridging, `compareTracesByPattern` for CI gating. Apache 2.0. |
 | [**memorydetective-plugin**](https://github.com/carloshpdoc/memorydetective-plugin) | One-command Claude Code plugin wrapping memorydetective + a `/perf-investigate` skill. |
 | [**on-device-chat-moderation**](https://github.com/carloshpdoc/on-device-chat-moderation) | Privacy-first chat moderation for iOS — toxicity + PII detection 100% on-device, zero latency. |
-| [**Voxfloy**](https://github.com/carloshpdoc/voxfloy-site) | macOS speech-to-text app — own product. |
 | [**daily-digest**](https://github.com/carloshpdoc/daily-digest) | Productivity automation over GitHub/Jira for engineering teams. |
+
+---
+
+### 💼 Own products
+
+| Product | What it does |
+|---|---|
+| [**Voxfloy**](https://voxfloy.com) | macOS speech-to-text app — commercial product. |
 
 ---
 
@@ -89,12 +96,12 @@
 ### 📈 GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=carloshpdoc&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpdoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=carloshpdoc&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=carloshpdoc&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloshpdoc&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carloshpdoc&theme=tokyonight&exclude=ruby" height="180" />
 </p>
 
 ---
