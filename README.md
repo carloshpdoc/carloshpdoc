@@ -18,7 +18,7 @@
 ### About me
 
 - 📱 **Principal Mobile Engineer @ OLX Brasil** — owning iOS architecture, scalability and DX across squads, plus supporting Android architecture and cross-platform strategy.
-- 🏗️ Shipped apps used by **millions of daily users** at **OLX**, **Globo** (Cartola FC, G1, ge, Gshow) and **Magazine Luiza / Luizalabs** (Super App Platform).
+- 🏗️ Shipped apps used by **millions of daily users** at **OLX**, **Globo** (Cartola FC, G1, ge, Gshow — 4 separate flagship apps) and **Magazine Luiza / Luizalabs** (Super App Platform).
 - 🌎 **International product experience** through **AmiGo Travel** (global travel app, Bitboundaire), translations work and English-first technical content.
 - 🎤 **CocoaHeads Rio organizer** · NSBrasil &amp; TDC speaker · iOS instructor at **EBAC** and **Ada** (System Design, algorithms, mock interviews).
 - 🧰 Now building **developer tools** for the iOS ecosystem and the Claude Code agent platform.
@@ -32,12 +32,14 @@
 
 | App | Role / Company | Reach | Stack |
 |---|---|---|---|
-| [**OLX — Compra e venda online**](https://apps.apple.com/br/app/olx-compra-e-venda-online/id692808319) | Principal / Senior Staff iOS · **OLX Brasil** (2022 → now) | Top classifieds app in Brazil, **multi-million MAU** | Swift · SwiftUI · Combine · modular architecture |
-| [**Cartola FC Oficial**](https://apps.apple.com/br/app/cartola-fc-oficial/id446882093) | Senior iOS Engineer · **Globo** (2020–2021) | Brazil's #1 fantasy football game, **millions of users** | SwiftUI · Combine (early adopter, 2020) |
-| [**Magalu — Super App**](https://apps.apple.com/br/app/magalu-compras-online/id476201305) | Staff iOS Engineer · **Luizalabs** (2021–2022) | Brazil's largest e-commerce Super App | Super App Platform · Mini Apps · SDKs |
-| [**G1 · globoesporte · Gshow**](https://apps.apple.com/br/app/g1-not%C3%ADcias/id436628021) | Mobile iOS Engineer · **Globo** (2018–2020) | Globo's flagship news / sports / entertainment apps | iOS Native Apps Platform · shared SDKs |
-| [**AmiGo Travel — Share &amp; get tips**](https://www.amigo.app/) 🌎 | Tech Lead &amp; Mobile Consultant · **Bitboundaire** (2023–2024) | International travel app (global audience) | Modular **SwiftUI** architecture · monetization &amp; subscriptions |
-| [**Cartão Carrefour**](https://apps.apple.com/br/app/cart%C3%A3o-de-cr%C3%A9dito-carrefour/id1156553924) | iOS Engineer (freelance) · **Banco Carrefour** (2019) | Carrefour credit card app | iOS native · barcode boleto payment flow |
+| [**OLX — Compra e venda online**](https://apps.apple.com/br/app/olx-compra-e-venda-online/id692808319) | Principal / Senior Staff iOS · **OLX Brasil** | Top classifieds app in Brazil, **multi-million MAU** | Swift · SwiftUI · Combine · modular architecture |
+| [**Cartola FC Oficial**](https://apps.apple.com/br/app/cartola-fc-oficial/id446882093) | Senior iOS Engineer · **Globo** | Brazil's #1 fantasy football game, **millions of users** | SwiftUI · Combine (early adopter) |
+| [**Magalu — Super App**](https://apps.apple.com/br/app/magalu-compras-online/id476201305) | Staff iOS Engineer · **Luizalabs** | Brazil's largest e-commerce Super App | Super App Platform · Mini Apps · SDKs |
+| [**G1 — Portal de Notícias da Globo**](https://apps.apple.com/br/app/g1-portal-de-not%C3%ADcias-da-globo/id413333281) | Mobile iOS Engineer · **Globo** | Globo's flagship news app | iOS Native Apps Platform · shared SDKs |
+| [**ge — notícias de esportes**](https://apps.apple.com/br/app/ge-not%C3%ADcias-de-esportes/id361393520) | Mobile iOS Engineer · **Globo** | Globo's flagship sports app | iOS Native Apps Platform · shared SDKs |
+| [**Gshow — novelas, realities e +**](https://apps.apple.com/br/app/gshow-novelas-realities-e/id999055004) | Mobile iOS Engineer · **Globo** | Globo's flagship entertainment app | iOS Native Apps Platform · shared SDKs |
+| [**AmiGo Travel — Share &amp; get tips**](https://www.amigo.app/) 🌎 | Tech Lead &amp; Mobile Consultant · **Bitboundaire** | International travel app (global audience) | Modular **SwiftUI** architecture · monetization &amp; subscriptions |
+| [**Cartão Carrefour**](https://apps.apple.com/br/app/cart%C3%A3o-de-cr%C3%A9dito-carrefour/id1156553924) | iOS Engineer (freelance) · **Banco Carrefour** | Carrefour credit card app | iOS native · barcode boleto payment flow |
 
 ---
 
@@ -63,6 +65,7 @@
 
 ### ✍️ Writing &amp; talks
 
+- ⭐ **Featured:** [*An afternoon of iOS perf work, with Claude in the loop*](https://dev.to/carlosperc/an-afternoon-of-ios-perf-work-with-claude-in-the-loop-42eg) — investigation log + 3 perf fixes shipped in 10 min using **memorydetective** + Claude.
 - 📝 Articles on [Medium](https://medium.com/@carloshperc) and [carloshperc.me](https://carloshperc.me/) — mobile architecture, SwiftUI, performance, AI for mobile, dev experience.
 - 🎤 **NSBrasil** — *App architecture at Globo.com platform*
 - 🎤 **TDC Innovation 2021** — *Magia Tecnológica da Realidade Aumentada no iOS*
