@@ -1,73 +1,71 @@
-<h1>Hi 👋, I'm Carlos Henrique</h1>
-<h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  A passionate mobile engineer from Brazil working with iOS and Android.
-</h3>
+<h1 align="center">Hi, I'm Carlos Henrique 👋</h1>
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/carloshperc?label=Follow)](https://twitter.com/carloshperc)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carloshperc.com)](https://carloshperc.com)
-![](https://visitor-badge.glitch.me/badge?page_id=carloshperc)
+<p align="center">
+  <strong>Principal Mobile Engineer · iOS &amp; Android · 10+ years shipping apps at scale</strong><br/>
+  Rio de Janeiro 🇧🇷 — building developer tools that make mobile engineers faster.
+</p>
 
-- 👨‍💻 All of my projects and writings are available at [carloshperc.me](https://carloshperc.me)  
-- 📱 I post tech content daily on [@buildcomcarlos](https://www.instagram.com/buildcomcarlos)  
-- 💬 Ask me about **iOS, SwiftUI, Combine, WatchOS, Android, and Mobile Architecture**
+<p align="center">
+  <a href="https://carloshperc.me/"><img src="https://img.shields.io/badge/Website-carloshperc.me-46a2f1?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://medium.com/@carloshperc"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/Carloshperc"><img src="https://img.shields.io/badge/X-@Carloshperc-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/buildcomcarlos/"><img src="https://img.shields.io/badge/Instagram-@buildcomcarlos-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-<h3>📖 Latest Medium articles:</h3>
+### About me
+
+- 📱 Principal Mobile Engineer focused on **iOS / Swift / SwiftUI** and large-scale mobile architecture
+- 🏗️ Built &amp; scaled mobile products at **OLX Brasil**, **Globo** (Cartola FC, G1, ge, Gshow) and a Brazilian Super App ecosystem
+- 🧰 Now building **developer tools** for iOS engineers and the Claude Code agent platform
+- 🎤 CocoaHeads Rio co-organizer · NSBrasil &amp; TDC speaker · iOS instructor at EBAC
+- ✉️ Open to talk about mobile architecture, performance, DX and tech leadership
+
+---
+
+### 🚀 Things I'm building
+
+| Project | What it does |
+|---|---|
+| [**memorydetective**](https://github.com/carloshpdoc/memorydetective) | MCP server for iOS leak hunting &amp; perf investigation — 28 tools, 34-pattern retain-cycle classifier, SourceKit-LSP source bridging, `compareTracesByPattern` for CI gating. |
+| [**memorydetective-plugin**](https://github.com/carloshpdoc/memorydetective-plugin) | One-command Claude Code plugin wrapping memorydetective + a `/perf-investigate` skill. |
+| [**on-device-chat-moderation**](https://github.com/carloshpdoc/on-device-chat-moderation) | Privacy-first chat moderation for iOS — toxicity + PII detection 100% on-device, zero latency. |
+| [**Voxfloy**](https://github.com/carloshpdoc/voxfloy-site) | macOS speech-to-text app — landing &amp; product work. |
+| [**daily-digest**](https://github.com/carloshpdoc/daily-digest) | Productivity automation over GitHub/Jira for engineering teams. |
+
+> Pin these on your profile for max impact when visitors land here.
+
+---
+
+### 🛠 Signature stack
+
+**Mobile:** `Swift` · `SwiftUI` · `Combine` · `Concurrency` · `WatchOS` · `Tuist` · `XCTest` · `GraphQL / Apollo` · `Kotlin / Android`
+**Tooling &amp; AI:** `TypeScript` · `Node` · `MCP` · `Claude Code agents &amp; plugins` · `Python`
+**Architecture:** modular monorepos · clean architecture · feature toggles · observability · A/B experimentation
+
+---
+
+### ✍️ Writing &amp; talks
+
+- 📝 Articles on [Medium](https://medium.com/@carloshperc) and [carloshperc.me](https://carloshperc.me/) — mobile architecture, SwiftUI, performance, dev experience.
+- 🎤 NSBrasil 2019 — *App architecture at Globo.com platform*
+- 🎤 The Developers Conference (TDC) — iOS / mobile architecture track
+- 🧑‍🏫 EBAC instructor — iOS development with Swift
+
+---
+
+### 📈 GitHub stats
+
 <p>
-  <a href="https://medium.com/@carloshperc" target="_blank">
-    <img src="https://github-readme-medium.vercel.app/?username=carloshperc" alt="Carlos on Medium" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloshpdoc&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshpdoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
----
-
-<h3>🧰 Languages and Tools I Use:</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="Objective-C" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
-</p>
-
----
-
-<h3>📡 Where to find me:</h3>
 <p>
-  <a href="https://github.com/carloshpdoc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://x.com/Carloshperc" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/carloshperc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@carloshperc" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.instagram.com/buildcomcarlos/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <img src="https://streak-stats.demolab.com/?user=carloshpdoc&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-<h5>
-  <i>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</i>
-</h5>
-<a href="https://www.buymeacoffee.com/carloshperc" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
-</a>
-
----
-
-<h3>📈 My GitHub Stats:</h3>
-
-![Carlos Carmo GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshpdoc&count_private=true)
-
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love connecting with different people</b> — so if you want to say <b>hi</b>, I’d be happy to meet you! 😊</em>
+<sub>If something here is useful to you, a ⭐ on the repo goes a long way. Want to chat? Ping me on <a href="https://x.com/Carloshperc">X</a> or <a href="https://www.linkedin.com/in/carloshperc">LinkedIn</a>.</sub>
