@@ -65,6 +65,7 @@
 
 ### ✍️ Writing &amp; talks
 
+- ⭐ **Featured:** [*An afternoon of iOS perf work, with Claude in the loop*](https://dev.to/carlosperc/an-afternoon-of-ios-perf-work-with-claude-in-the-loop-42eg) — investigation log + 3 perf fixes shipped in 10 min using **memorydetective** + Claude.
 - 📝 Articles on [Medium](https://medium.com/@carloshperc) and [carloshperc.me](https://carloshperc.me/) — mobile architecture, SwiftUI, performance, AI for mobile, dev experience.
 - 🎤 **NSBrasil** — *App architecture at Globo.com platform*
 - 🎤 **TDC Innovation 2021** — *Magia Tecnológica da Realidade Aumentada no iOS*
