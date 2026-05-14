@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Carlos Henrique 👋</h1>
 
 <p align="center">
-  <strong>Principal Mobile Engineer · iOS &amp; Android · 10+ years shipping apps at scale</strong><br/>
-  Rio de Janeiro 🇧🇷 — currently @ OLX Brasil. Building developer tools that make mobile engineers faster.
+  <strong>Principal Mobile Engineer · iOS &amp; Android · 15+ years shipping apps at scale</strong><br/>
+  Rio de Janeiro 🇧🇷. Building developer tools that make mobile engineers faster.
 </p>
 
 <p align="center">
