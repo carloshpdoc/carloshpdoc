@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://carloshperc.me/"><img src="https://img.shields.io/badge/Website-carloshperc.me-46a2f1?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://buildcomcarlos.com/"><img src="https://img.shields.io/badge/Website-buildcomcarlos.com-46a2f1?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/carloshperc"><img src="https://img.shields.io/badge/LinkedIn-carloshperc-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@carloshperc"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://x.com/Carloshperc"><img src="https://img.shields.io/badge/X-@Carloshperc-000000?style=flat-square&logo=x&logoColor=white" /></a>
